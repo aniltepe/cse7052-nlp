@@ -1,0 +1,18 @@
+TrainingSet/Maltepe Üniversitesi Json klasörü içinde Yıldırım Bayazıt Üniversitesi json klasörü kopya olarak duruyordu, kaldırıldı.
+
+İstanbul Hukuk Mecmuası 145.json 12. satırda gereksiz "]" karakteri vardı, kaldırıldı.
+
+Ankara Üniversitesi 56.pdf.json, içinde metin olmamasından dolayı silindi
+
+Ankara Üniversitesi 218.pdf.json, içindeki metnin eksik ve kısa (337 kelime) olmasından dolayı silindi
+
+Ankara Üniversitesi 218.pdf.json, içindeki metnin eksik olmasından dolayı (835 kelime) orijinal pdf'ten tamamlandı (Ankara Üniversitesi 218.pdf copy.json)
+
+Ankara Üniversitesi 217.pdf.json, içindeki metnin eksik olmasından dolayı (1402 kelime) orijinal pdf'ten tamamlandı (Ankara Üniversitesi 217.pdf copy.json)
+
+Gazi Üniversitesi 6.pdf.json, içindeki metnin eksik olmasından dolayı (1600 kelime) orijinal pdf'ten tamamlandı (Gazi Üniversitesi 6.pdf copy.json)
+
+Ankara Üniversitesi 84.pdf.json, tamamen İspanyolca olduğu için silindi
+
+Ankara Üniversitesi 166.pdf.json'da anahtar kelimelerden biri "Anahtar Kelimeler: Mobbing" şeklindeydi, "Mobbing" olarak değiştirildi
+
