@@ -6,7 +6,7 @@ Ankara Üniversitesi 56.pdf.json, içinde metin olmamasından dolayı silindi
 
 Ankara Üniversitesi 218.pdf.json, içindeki metnin eksik ve kısa (337 kelime) olmasından dolayı silindi
 
-Ankara Üniversitesi 218.pdf.json, içindeki metnin eksik olmasından dolayı (835 kelime) orijinal pdf'ten tamamlandı (Ankara Üniversitesi 218.pdf copy.json)
+Ankara Üniversitesi 216.pdf.json, içindeki metnin eksik olmasından dolayı (835 kelime) orijinal pdf'ten tamamlandı (Ankara Üniversitesi 218.pdf copy.json)
 
 Ankara Üniversitesi 217.pdf.json, içindeki metnin eksik olmasından dolayı (1402 kelime) orijinal pdf'ten tamamlandı (Ankara Üniversitesi 217.pdf copy.json)
 
@@ -14,5 +14,6 @@ Gazi Üniversitesi 6.pdf.json, içindeki metnin eksik olmasından dolayı (1600 
 
 Ankara Üniversitesi 84.pdf.json, tamamen İspanyolca olduğu için silindi
 
-Ankara Üniversitesi 166.pdf.json'da anahtar kelimelerden biri "Anahtar Kelimeler: Mobbing" şeklindeydi, "Mobbing" olarak değiştirildi
+İstanbul Hukuk Mecmuası 104.json'da anahtar kelimelerde madde 791 ifadesi ayrı item'lar halindeydi, birleştirildi
 
+Ankara Üniversitesi 86.pdf.json, tamamen İtalyanca olduğu için silindi
